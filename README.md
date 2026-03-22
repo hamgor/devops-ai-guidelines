@@ -30,6 +30,7 @@ This repository provides everything you need to master AI in DevOps - from your 
 | [**MCP for DevOps**](./02-mcp-for-devops/00-toc.md)                 | Complete guide to building MCP servers with Golang and Kubernetes | ✅ Available |
 | [**AI Agent for DevOps**](./03-ai-agent-for-devops/00-toc.md)       | Complete guide to building AI Agent with Golang and LangChain    | ✅ Available |
 | [**Building Your Business on AWS with AI Agent**](./04-ai-agent-for-aws/00-toc.md) | A Step-by-Step Guide for Beginners to Design, Build, and Scale Your Business Infrastructure on Amazon Web Services | ✅ Available        |
+| [**AI Project Management**](./05-ai-project-management/00-toc.md) | An Engineer's Journey to Building an Intelligent Project Management with OpenClaw | ✅ Available        |
 
 ### For Teams & Organizations
 
