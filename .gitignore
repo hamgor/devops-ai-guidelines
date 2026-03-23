@@ -1,3 +1,6 @@
 bin
 books
 .vscode
+node_modules
+dist
+reactflow
